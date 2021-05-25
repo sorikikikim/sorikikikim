@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 🌱 I’m currently learning C programming in 42seoul
+#### 🌱 I’m currently learning C in 42seoul
 <!--
 **sorikikikim/sorikikikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
