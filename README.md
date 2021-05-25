@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+----------------------
 # 42badge
 
 [![sorkim's 42 stats](https://badge42.herokuapp.com/api/stats/sorkim)](https://github.com/JaeSeoKim/badge42)
 
-
+----------------------
 ####  Libft [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/sorkim/Libft)](https://github.com/JaeSeoKim/badge42)
 
 
