@@ -20,19 +20,19 @@ Here are some ideas to get you started:
 [![sorkim's 42 stats](https://badge42.herokuapp.com/api/stats/sorkim)](https://github.com/JaeSeoKim/badge42)
 
 
-### sorkim's 42 Libft Score -[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/sorkim/Libft)](https://github.com/JaeSeoKim/badge42)
+#### sorkim's 42 Libft Score -[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/sorkim/Libft)](https://github.com/JaeSeoKim/badge42)
 
 
-### sorkim's 42 get_next_line Score -[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/sorkim/get_next_line)](https://github.com/JaeSeoKim/badge42)
+#### sorkim's 42 get_next_line Score -[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/sorkim/get_next_line)](https://github.com/JaeSeoKim/badge42)
 
 
-### sorkim's 42 ft_printf Score -[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/sorkim/ft_printf)](https://github.com/JaeSeoKim/badge42)
+#### sorkim's 42 ft_printf Score -[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/sorkim/ft_printf)](https://github.com/JaeSeoKim/badge42)
 
 
-### sorkim's 42 netwhat Score -[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/sorkim/netwhat)](https://github.com/JaeSeoKim/badge42)
+#### sorkim's 42 netwhat Score -[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/sorkim/netwhat)](https://github.com/JaeSeoKim/badge42)
 
 
-### sorkim's 42 ft_server Score -[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/sorkim/ft_server)](https://github.com/JaeSeoKim/badge42)
+#### sorkim's 42 ft_server Score -[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/sorkim/ft_server)](https://github.com/JaeSeoKim/badge42)
 
 
 
