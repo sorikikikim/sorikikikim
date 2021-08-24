@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 
 [![sorkim's 42 stats](https://badge42.herokuapp.com/api/stats/sorkim)](https://github.com/JaeSeoKim/badge42)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sorikikikim)](https://github.com/anuraghazra/github-readme-stats)
