@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 #### 🔭 I’m currently studying C in 42seoul.
-#### 🌱 I'm learning Java, SQL, HTML, JAVASCRIPT, CSS, Node.js in school.
+#### 🌱 
 <!--
 **sorikikikim/sorikikikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
