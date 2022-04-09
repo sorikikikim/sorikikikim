@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 -->
 ----------------------
 
-[![sorkim's 42 stats](https://badge42.herokuapp.com/api/stats/sorkim)](https://github.com/JaeSeoKim/badge42)
+https://badge42.vercel.app/api/v2/cl1rs36hd002509la2d9fhg1h/stats?cursusId=21&coalitionId=87
 
