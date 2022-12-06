@@ -1,7 +1,7 @@
 
 ### Hi there 👋
-#### 🔭 I’m currently studying C in 42seoul.
-#### 🌱 
+#### 🔭 I’m a web front-end develop aspirant
+#### C, C++, javascript, ReactJS🌱 
 <!--
 **sorikikikim/sorikikikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ----------------------
 
-[![sorkim's 42 stats](https://badge42.herokuapp.com/api/stats/sorkim)](https://github.com/JaeSeoKim/badge42)
+[![sorkim's 42 stats](https://badge.mediaplus.ma/darkblue/sorkim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
