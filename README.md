@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ----------------------
 
-[![sorkim's 42 stats](https://badge.mediaplus.ma/darkblue/sorkim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<!-- [![sorkim's 42 stats](https://badge.mediaplus.ma/darkblue/sorkim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) !-->
